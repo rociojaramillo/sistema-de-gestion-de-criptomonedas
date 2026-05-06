@@ -57,6 +57,6 @@ Implementación manual de toda la lógica de estructuras de datos (rebalanceos, 
 
 Respetar la abstracción y el encapsulamiento de cada componente.
 
---
+---
 
 *Este proyecto fue realizado para la materia Algoritmos y Estructuras de Datos - DC, UBA (2025).*
